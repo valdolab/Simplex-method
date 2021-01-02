@@ -1,2 +1,5 @@
 # Simplex-method
-The simplex algorithm is a popular algorithm for linear programming.
+ This algorithm is made in C++.
+ The simplex algorithm is the most popular for linear programming.
+ 
+ 
